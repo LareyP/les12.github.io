@@ -1,0 +1,61 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+table {
+    width: auto;
+    border-collapse: collapse;
+}
+
+td {
+    width: 25%;
+    height: 150px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+img {
+    width: 15%;
+}
+
+#cell1, #cell3, #cell5, #cell7, #cell9, #cell11, #cell13, #cell15 {
+    background-color: #f2f2f2;
+    color: #333;
+}
+
+#cell2, #cell4, #cell6, #cell8, #cell10, #cell12, #cell14 {
+    background-color: #e7e7e7;
+}
+
+#cell1 { background-color: #FFCCCC;}
+#cell2 { background-color: #CCFFCC;}
+#cell3 { background-color: #CCCCFF;}
+#cell4 { background-color: #FFFFCC;}
+#cell5 { background-color: #FFCCFF;}
+#cell6 { background-color: #CCFFFF;}
+#cell7 { background-color: #FFE5CC;}
+#cell8 { background-color: #E5FFCC;}
+#cell9 { background-color: #FFD9CC;}
+#cell10 { background-color: #D9FFCC;}
+#cell11 { background-color: #D9CCFF;}
+#cell12 { background-color: #FFFFE5;}
+#cell13 { background-color: #E5D9FF;}
+#cell14 { background-color: #CCD5E9;}
+#cell15 { background-color: #CCE5D9;}
+#cell16 { background-color: #E5FFD9;}
